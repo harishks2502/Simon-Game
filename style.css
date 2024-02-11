@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+  margin: 1rem 2.5rem 2.5rem 0;
+}
+
+.color-one {
+  background-color: #f99b45;
+}
+
+.color-two {
+  background-color: #d95980;
+}
+
+.color-three {
+  background-color: #8f9ff9;
+}
+
+.color-four {
+  background-color: #69aac0;
+}
+
+.flash {
+  background-color: white;
+}
+
+.userFlash {
+  background-color: greenyellow;
+}
